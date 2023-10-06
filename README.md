@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anibalsolon&theme=dark&show_icons=true" alt="Anibal Sólon's GitHub stats" />
+</p>
+
+<p align="center">
   :tada: Hello there, you are the visitor :tada: <br><br>
   <img src="https://anibalsolon.com/counter_effect.php" alt="My huge visitors number">
 </p>
