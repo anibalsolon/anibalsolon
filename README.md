@@ -1,6 +1,6 @@
 <p align="center">
   Anibal Sólon (Ani) <br />
-  ɐˈnibaw ˈsɔlõ <br />
+  /ɐˈnibaw ˈsɔlõ/ <br />
   <a href="https://anibalsolon.com/pronunciation.mp3">:speaker: pronunciation (pt-Br)</a>
 </p>
 
