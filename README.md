@@ -1,4 +1,10 @@
 <p align="center">
+  Anibal Sólon (Ani) <br />
+  ɐˈnibaw ˈsɔlõ <br />
+  <a href="https://anibalsolon.com/pronunciation.mp3">:speaker: pronunciation (pt-Br)</a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anibalsolon&theme=dark&show_icons=true" alt="Anibal Sólon's GitHub stats" />
 </p>
 
